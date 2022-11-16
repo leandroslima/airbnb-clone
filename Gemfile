@@ -67,3 +67,5 @@ group :development do
 end
 
 gem 'bootstrap'
+
+gem 'devise'
